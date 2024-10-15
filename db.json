@@ -26,6 +26,15 @@
         "third",
         "post3"
       ]
+    },
+    {
+      "id": "cd81",
+      "title": "Fourth post",
+      "body": "Fourth post body",
+      "tags": [
+        "fourth",
+        "link2"
+      ]
     }
   ]
 }
