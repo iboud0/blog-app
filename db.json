@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "body": "This is the content of the first post.",
+      "tags": [
+        "intro",
+        "first"
+      ]
+    },
+    {
+      "id": "c825",
+      "title": "Second post",
+      "body": "Second post body",
+      "tags": [
+        "post2",
+        "link2"
+      ]
+    },
+    {
+      "id": "0f8f",
+      "title": "Third post",
+      "body": "Third post body",
+      "tags": [
+        "third",
+        "post3"
+      ]
+    }
+  ]
+}
